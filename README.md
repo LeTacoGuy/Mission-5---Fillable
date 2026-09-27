@@ -3,8 +3,6 @@
 
 Fillable is an open source 3D fillament tracker for everybody! Easy to setup! Easy to use!
 
-[ Screenshot / GIF ]
-
 
 
 ## Features
