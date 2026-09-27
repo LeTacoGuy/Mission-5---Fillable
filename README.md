@@ -1,16 +1,38 @@
-# React + Vite
+![Fillable Logo](./public/logo.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Fillable is an open source 3D fillament tracker for everybody! Easy to setup! Easy to use!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[ Screenshot / GIF ]
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Search filaments
+- Filter by material
+- View filament information
+- Track filament weight
+- more features to come!
+
+## Built With
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Getting Started
+Simply Clone it and run it with Vite!
+
+
+## What I Learned
+Learnt alot about building functional software for the general purpose.
+My first ever React project with a passionate motivation to create for 3D Printing Enthusiasts, by a 3D Printing Enthusiast.
+
+## Future Improvements
+
+- Add button to do adjustable weight tracker!
+- Implement as a widget onto accompany into real slicers, (bambulab, orca, etc...)
+- Adding Specific sorting system.
+- Additional Brand and colors.
